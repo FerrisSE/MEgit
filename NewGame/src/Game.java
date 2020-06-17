@@ -5,6 +5,8 @@ public class Game {
 		// TODO Auto-generated method stub
 		int testValue = 0;
 		System.out.println("Test Value: " + testValue);
+		testValue = 100;
+		System.out.println("Test Value: " + testValue);
 	}
 
 }
